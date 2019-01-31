@@ -21,6 +21,7 @@
 \Create Right To Left Text in pdf
 \Create Submit Form action in PDF
 \Create text annotation in pdf
+\Create Text Fields in PDF
 \Create Tiling Patterns drawings in pdf
 \Create URI (Link) action in pdf
 \Draw Lines and Curves in pdf
