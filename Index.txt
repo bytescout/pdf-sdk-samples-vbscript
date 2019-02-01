@@ -1,54 +1,54 @@
 ## Index of source code examples:
 
-\Add 3d annotation in pdf
+\Add 3D Annotation in PDF
 \Add File Attachment to PDF
-\Add Goto action to pdf
-\add Images in pdf
-\Add JavaScript action in pdf
-\Add Link To a Page in pdf
+\Add GoTo Action to PDF
+\Add Images in PDF
+\Add JavaScript Action in PDF
+\Add Link To Page in PDF
 \Add Page Numbers in PDF
-\Add Sound as annotation in pdf
-\Add video annotation to pdf
-\Add watermarks in pdf
+\Add Sound Annotation in PDF
+\Add Video Annotation to PDF
+\Add Watermarks in PDF
 \Copy Pages From One PDF Document To Another
-\Create Bookmarks for navigation in pdf
-\create Drawing Template for pdf
-\Create List Box in pdf form
-\Create New pdf document
-\create pdf form with Button
-\create pdf Form with ComboBox
-\create pdf Forms with CheckBox
-\Create Right To Left Text in pdf
-\Create Submit Form action in PDF
-\Create text annotation in pdf
+\Create Bookmarks for Navigation in PDF
+\Create Drawing Template for PDF
+\Create List Box in PDF Form
+\Create New PDF Document
+\Create PDF Form with Button
+\Create PDF Form with CheckBox
+\Create PDF Form with ComboBox
+\Create Right-To-Left Text in PDF
+\Create Submit Form Action in PDF
+\Create Text Annotation in PDF
 \Create Text Fields in PDF
-\Create Tiling Patterns drawings in pdf
-\Create URI (Link) action in pdf
-\Draw Lines and Curves in pdf
-\Draw Rectangles in pdf
-\Draw String in pdf
-\Draw tables in pdf
-\Enable Superscript or Subscript for text in pdf
-\Fill fields in PDF Form
+\Create Tiling Patterns Drawings in PDF
+\Create URI (Link) Action in PDF
+\Draw Lines and Curves in PDF
+\Draw Rectangles in PDF
+\Draw String in PDF
+\Draw Tables in PDF
+\Enable Superscript or Subscript for Text in PDF
+\Fill Fields in PDF Form
 \Flatten PDF Form
-\Load existing pdf document
+\Load Existing PDF Document
 \Set Display Options for PDF
-\Set Font for text in pdf
+\Set Font for Text in PDF
 \Set Graphics State for PDF
-\Set Inter character Spacing for text in pdf
-\Set Launch action in pdf
-\Set Markup for annotation in pdf
+\Set Inter-Character Spacing for Text in PDF
+\Set Launch Action in PDF
+\Set Markup Aannotation in PDF
 \Set Passwords and Permissions of PDF file
 \Set Show and Hide Widget in PDF
 \Set Text Rotation
-\Set Text Scaling option in pdf
-\Set Transparency for drawing in pdf
-\Set word spacing for text in pdf
+\Set Text Scaling Option in PDF
+\Set Transparency for Drawing in PDF
+\Set Word Spacing for Text in PDF
 \Setup PDF Document Information
-\Sign PDF document
-\Transform Drawing in pdf
-\Use Blend Mode for drawing in pdf
-\Use clipping for drawing in pdf
-\Use Color Profiles in drawing in pdf
-\use Layers in pdf
+\Sign PDF Document
+\Transform Drawing in PDF
+\Use Blend Mode for Drawing in PDF
+\Use Clipping for Drawing in PDF
+\Use Color Profiles in Drawing in PDF
+\Use Layers in PDF
 \Use Radio Button in PDF form
