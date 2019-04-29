@@ -24,6 +24,7 @@
 \Create Text Fields in PDF
 \Create Tiling Patterns Drawings in PDF
 \Create URI (Link) Action in PDF
+\Create ZUGFeRD Invoice
 \Draw Lines and Curves in PDF
 \Draw Rectangles in PDF
 \Draw String in PDF
