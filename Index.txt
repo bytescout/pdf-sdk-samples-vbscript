@@ -46,6 +46,7 @@
 \Set Transparency for Drawing in PDF
 \Set Word Spacing for Text in PDF
 \Setup PDF Document Information
+\Shift Page Content
 \Sign PDF Document
 \Transform Drawing in PDF
 \Use Blend Mode for Drawing in PDF
